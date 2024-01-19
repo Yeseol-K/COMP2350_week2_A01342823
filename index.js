@@ -8,7 +8,7 @@ const dbConfig = {
 	user: "freedb_2350_main.",
 	password: "JCEhe!*nGh5EDE2",
 	database: "freedb_COMP2350_week2_A01342823",
-	multipleStatements: false
+	multipleStatements: false,
 	reconnect: true
 };
 
