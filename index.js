@@ -9,7 +9,7 @@ const dbConfig = {
 	password: "JCEhe!*nGh5EDE2",
 	database: "freedb_COMP2350_week2_A01342823",
 	multipleStatements: false
-	reconnect: true;
+	reconnect: true
 };
 
 var database = mysql.createPool(dbConfig);
